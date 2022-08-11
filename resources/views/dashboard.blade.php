@@ -27,7 +27,7 @@
   }
   ```
 -->
-<div class="mt-1.5 bg-white">
+<div class="bg-white">
   <div class="relative overflow-hidden">
     
     <main>
